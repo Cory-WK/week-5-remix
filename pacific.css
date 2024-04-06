@@ -1,0 +1,54 @@
+body {
+    background-color: #FFFFFF; 
+    color: #666666;
+}
+
+header {
+    background-color: hsl(240, 100%, 10%); 
+    color: #FFFFFF; 
+}
+
+
+nav {
+    background-color: #90C7E3;
+}
+
+
+h2 {
+    color: #000033;
+}
+
+
+.resort {
+    color: #5C7FA3;
+}
+
+
+h1 {
+    margin-bottom: 0;
+}
+
+
+table {
+    border: 2px solid #3399CC;
+    border-collapse: collapse;
+}
+
+th,
+td{
+    padding: 0.5em;
+    border: 2px solid #3399CC;
+}
+
+td{
+    text-align:center;
+}
+
+.text
+{
+    text-align: left !important;
+}
+
+tr:nth-of-type(odd){
+    background: #F5FAFC;
+}
